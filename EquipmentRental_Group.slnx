@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="EquipmentRental_API/EquipmentRental_API.csproj" />
+  <Project Path="EquipmentRental_UI/EquipmentRental_UI.csproj" />
+</Solution>
